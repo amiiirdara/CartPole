@@ -15,4 +15,5 @@ This project aims to be an example of implementation of reinforcement learning u
 
 ## Contributors
 AmirMahdi Daraei
+
 Helia AkhtarKavian
