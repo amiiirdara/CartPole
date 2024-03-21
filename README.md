@@ -1,19 +1,19 @@
 ## CartPole
 
-This project aims to be an example of implementation of reinforcement learning using Gym library in Python.
+This project aims to be an example of the implementation of reinforcement learning using the Gym library in Python.
 
 **It specifically**
 
-**Phase1**: Focuses on the **"CartPole"** environment provided by Gym.
+**Phase 1**: Focuses on the **"CartPole"** environment provided by Gym.
 
-**Phase2**: Takes a look to some algorithms like QLearning and SARSA.
+**Phase 2**: Takes a look at some algorithms like QLearning and SARSA.
 
-**Phase3**: Provides a custom env named CustomMiniGridEnv instead of using Gym environments and apply Tabular QLearning on it.
+**Phase 3**: Provides a custom env named CustomMiniGridEnv instead of using Gym environments and applies Tabular QLearning on it.
 
-**Phase4**: Makes itself better and better in deeper insights
+**Phase 4**: Makes itself better and better in deeper insights
 
 
 ## Contributors
-AmirMahdi Daraei
+**AmirMahdi Daraei**
 
-Helia AkhtarKavian
+**Helia AkhtarKavian**
