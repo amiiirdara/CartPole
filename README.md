@@ -1,8 +1,9 @@
 ## CartPole
 
 This project aims to be an example of the implementation of various reinforcement learning concepts using the Gym library in Python.
----
 
+
+---
 **It specifically**
 
 **Phase 1**: Focuses on the **"CartPole"** environment provided by Gym.
